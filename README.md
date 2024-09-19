@@ -82,7 +82,7 @@ database or a third-party api, like it is in this case.
 
 **Component diagram showing the architecture of the integration service:**
 
-<img height="50%" src="/Users/jonas/Code/concepts-integration-service/docs/IntegrationComponents.png" title="Integration service component diagram" width="50%"/>
+<img height="50%" src="./docs/IntegrationComponents.png" title="Integration service component diagram" width="50%"/>
 
 **Considerations for further development:**
 
